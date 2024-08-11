@@ -150,3 +150,13 @@ img{
 
     height: 250px;
 }
+
+img:hover{
+    transform: translateY(-10px);
+}
+
+body{
+    background: rgb(191,92,32);
+    background: linear-gradient(90deg, rgb(191,92,32,1) 1%,
+    rgba(85,44,144,1) 77%);
+}
